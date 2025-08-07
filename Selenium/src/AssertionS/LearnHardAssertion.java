@@ -29,6 +29,8 @@ public class LearnHardAssertion {
 
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shop", "home page is not displayed");
 		Reporter.log("home page is displayed", true);
+		Reporter.log("home page is displayed", true);
 
 	}
 }
+
